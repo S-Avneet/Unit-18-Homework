@@ -3,10 +3,10 @@ Unit-18 Homework
 
 ## Initializing streamlit application
 
-![Alt text](Instructions/Images/PyChain1.png)
+![Alt text](Unit%2018%20Homework/Instructions/Images/PyChain1.png)
 
 ## Validating the ledger
 
-![Alt text](Instructions/Images/PyChain2.png)
+![Alt text](Unit%2018%20Homework/Instructions/Images/PyChain2.png)
 
 
